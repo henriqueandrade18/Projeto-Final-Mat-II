@@ -1,8 +1,14 @@
 body {
-    background-color: bisque;
+    background-color: rgb(204, 39, 39);
 }
 footer {
-background-color: black;
-color: white;
-bottom: eX;
+    background-color: black;
+    color: white;
+    position: fixed;
+    bottom: eX;
+    width: 100%;
 }  
+footer p{
+    text-align: conter;
+    font-size: 0.6rem;
+}
